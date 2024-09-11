@@ -9,5 +9,7 @@ Utiliza la aplicación online Moqups y realiza el boceto de una página web (una
   Nombre del grupo
 #
 Imagenes
+#
   Información del concierto
-  Carrito para la compra de entradas
+ #
+ Carrito para la compra de entradas
