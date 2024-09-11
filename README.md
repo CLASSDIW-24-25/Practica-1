@@ -10,6 +10,8 @@ Utiliza la aplicación online Moqups y realiza el boceto de una página web (una
 #
 Imagenes
 #
-  Información del concierto (fecha, lugar o cualquier información que una página de este tipo debe llevar)
+  Información del concierto (fecha, lugar o cualquier información que creas que necesita)
  #
  Carrito para la compra de entradas
+ #
+ Teléfono de contacto
