@@ -7,7 +7,7 @@
 
 ## La web debe reflejar como  mínimo:
 
-# Nombre del grupo
-Imagenes
-# Información del concierto
-# carrito para la compra de entradas
+  Nombre del grupo
+  Imagenes
+  Información del concierto
+  Carrito para la compra de entradas
