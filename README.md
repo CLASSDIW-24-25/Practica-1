@@ -1,13 +1,13 @@
 # Practica-1
-# Entrega Actividad 1: BOCETO web concierto con MOQUPS
-# 
+# Entrega: 
+# BOCETO MOQUPS
 #
- Utiliza la aplicación online Moqups
+ Utiliza la aplicación online Moqups y realiza el boceto de una página web (una página solo) 
+ que publicite y venda las entradas para el concierto de música de un grupo o para un festival de música.
 
-# Realiza el boceto de una web (una página solo) que publicite un concierto de música.
-
-# Incluye como  mínimo:
+## La web debe reflejar como  mínimo:
 
 # Nombre del grupo
-# Lugar del concierto
-# Elemento para la compra de entradas
+Imagenes
+# Información del concierto
+# carrito para la compra de entradas
