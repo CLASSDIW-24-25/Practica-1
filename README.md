@@ -6,6 +6,7 @@ Utiliza la aplicación online Moqups y realiza el boceto de una página web (una
 #
 ### La web debe reflejar como  mínimo:
 
-  Nombre del grupo#Imagenes
+  Nombre del grupo
+  #Imagenes
   Información del concierto
   Carrito para la compra de entradas
