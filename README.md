@@ -1,6 +1,6 @@
 # Practica-1
 # Entrega: 
-# BOCETO MOQUPS
+# BOCETO de un diseño WEB con la APP MOQUPS
 #
 Utiliza la aplicación online Moqups y los eementos de diseño que proporciona, para realizar el boceto de una página web (una página solo) 
 que publicite y venda las entradas para el concierto de música de un grupo o para un festival de música.
